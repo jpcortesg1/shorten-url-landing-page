@@ -451,7 +451,7 @@ input {
   display: none;
 }
 
-@media (max-width: 376px) {
+@media (max-width: 500px) {
   .hamburger {
     display: block;
   }
